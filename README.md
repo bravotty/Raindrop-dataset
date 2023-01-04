@@ -6,6 +6,7 @@
 Authors : Tianyi Chen, Wen Xu, Yuhui Quan, Yong Xu
 
 <Dataset-Demo-Pics>
-![dataset_overview](dataset_overview.jpg)
+
+![Teaser image](./dataset_overview.jpg)
 
 ## Acknowledgement
