@@ -9,4 +9,5 @@ Authors : Tianyi Chen, Wen Xue, Yuhui Quan, Yong Xu
 
 ![Teaser image](./dataset_overview.jpg)
 
-## Acknowledgement
+## Note
+Since the paper is under review, the link will not be released yet. If you have any research needs, please email me at csttychen@mail.scut.edu.cn
